@@ -89,8 +89,8 @@
 .slide_sec:hover .image-container img.arrow {
     opacity: 1; /* Fully visible */
     visibility: visible; /* Ensure it's interactable */
-    height: 40px !important;
-    width: 40px !important;
+    /* height: 40px !important;
+    width: 40px !important; */
 }
 
 /* .arrow:hover {
@@ -148,8 +148,8 @@ iframe {
 
 #closeButton {
     position: absolute;
-    height: 50px;
-    width: 50px;
+    /* height: 50px;
+    width: 50px; */
     fill: #fff;
     top: 20px;
     right: 20px;

@@ -238,7 +238,15 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -267,7 +275,7 @@ get_header(); ?>
                                             <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                         <?php endif; ?>
                                         <div class="flip-text-outer center_txt">
-                                            <a class="close-flip">
+                                            <a class="close-flip down_arrow">
                                             </a>
                                             <h3>
                                                 <?php the_field('screen_2_title') ?>
@@ -309,7 +317,15 @@ get_header(); ?>
 
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
 
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -338,7 +354,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_2_title') ?>
@@ -398,7 +414,15 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -427,7 +451,7 @@ get_header(); ?>
                                             <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                         <?php endif; ?>
                                         <div class="flip-text-outer center_txt">
-                                            <a class="close-flip">
+                                            <a class="close-flip down_arrow">
                                             </a>
                                             <h3>
                                                 <?php the_field('screen_3_title') ?>
@@ -463,7 +487,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -494,7 +526,7 @@ get_header(); ?>
 
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_4_title') ?>
@@ -523,7 +555,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -552,7 +592,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_4_title') ?>
@@ -595,7 +635,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -624,7 +672,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_4_title') ?>
@@ -660,7 +708,15 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -689,7 +745,7 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" class="overlay-image" alt="<?php echo $title; ?>">
                                         <?php endif; ?>
                                         <div class="flip-text-outer center_txt">
-                                            <a class="close-flip">
+                                            <a class="close-flip down_arrow">
                                             </a>
                                             <h3>
                                                 <?php the_field('screen_5_title') ?>
@@ -749,7 +805,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -778,7 +842,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_6_title') ?>
@@ -831,7 +895,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -860,7 +932,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_6_title') ?>
@@ -896,7 +968,15 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -925,7 +1005,7 @@ get_header(); ?>
                                             <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                         <?php endif; ?>
                                         <div class="flip-text-outer center_txt">
-                                            <a class="close-flip">
+                                            <a class="close-flip down_arrow">
                                             </a>
                                             <h3>
                                                 <?php the_field('screen_7_title') ?>
@@ -967,7 +1047,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -996,7 +1084,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_7_title') ?>
@@ -1045,7 +1133,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1074,7 +1170,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_8_title') ?>
@@ -1114,7 +1210,15 @@ get_header(); ?>
                                     <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                     <div class="image-container">
                                         <!-- <div class="arrow">➔</div> -->
-                                        <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                        <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                     </div>
                                 <?php endif; ?>
                                 <a class="overlay_text" href="<?php the_field('section_14_url'); ?>">
@@ -1156,7 +1260,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1185,7 +1297,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_9_title') ?>
@@ -1214,7 +1326,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1243,7 +1363,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_9_title') ?>
@@ -1286,7 +1406,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1315,7 +1443,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_9_title') ?>
@@ -1351,7 +1479,15 @@ get_header(); ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
                                                 <!-- <div class="arrow">➔</div> -->
-                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -1380,7 +1516,7 @@ get_header(); ?>
                                             <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                         <?php endif; ?>
                                         <div class="flip-text-outer center_txt">
-                                            <a class="close-flip">
+                                            <a class="close-flip down_arrow">
                                             </a>
                                             <h3>
                                                 <?php the_field('screen_10_title') ?>
@@ -1422,7 +1558,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1451,7 +1595,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_10_title') ?>
@@ -1488,7 +1632,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1517,7 +1669,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_11_title') ?>
@@ -1546,7 +1698,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1575,7 +1735,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_11_title') ?>
@@ -1618,7 +1778,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1647,7 +1815,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_11_title') ?>
@@ -1696,7 +1864,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1725,7 +1901,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_12_title') ?>
@@ -1756,7 +1932,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1785,7 +1969,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_12_title') ?>
@@ -1814,7 +1998,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1843,7 +2035,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_12_title') ?>
@@ -1902,7 +2094,15 @@ get_header(); ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
                                                     <!-- <div class="arrow">➔</div> -->
-                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
+                                                    <div class="svg_outer arrow down_arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 168 168" enable-background="new 0 0 168 168" xml:space="preserve" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);">
+                                <g id="Layer_2"></g>
+                                <g id="Layer_1">
+                                    <polygon fill="#fff" points="133,79 89,79 89,35 79,35 79,79 35,79 35,89 79,89 79,133 89,133 89,89 133,89 "></polygon>
+                                    <path fill="#fff" d="M84,10c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S43.2,10,84,10 M84,0C37.61,0,0,37.61,0,84s37.61,84,84,84s84-37.61,84-84S130.39,0,84,0L84,0z"></path>
+                                </g>
+                            </svg>
+                        </div>
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1931,7 +2131,7 @@ get_header(); ?>
                                                 <img class="overlay-image" src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <?php endif; ?>
                                             <div class="flip-text-outer center_txt">
-                                                <a class="close-flip">
+                                                <a class="close-flip down_arrow">
                                                 </a>
                                                 <h3>
                                                     <?php the_field('screen_13_title') ?>
@@ -1986,7 +2186,7 @@ get_header(); ?>
                             </a>
                             <div class="horizontal_half left top hover-link">
                                 <div class="slide_sec top_to_bottom prev_right transTop">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')">
@@ -2065,7 +2265,7 @@ get_header(); ?>
                             </div>
                             <div class="horizontal_half right top hover-link">
                                 <div class="slide_sec left_to_right prev_left transRight">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')"">
@@ -2125,7 +2325,7 @@ get_header(); ?>
                             </a>
                             <div class="horizontal_half left top hover-link">
                                 <div class="slide_sec right_to_left prev_left transBottom">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')"">
@@ -2204,7 +2404,7 @@ get_header(); ?>
                             </div>
                             <div class="horizontal_half right top hover-link">
                                 <div class="slide_sec bottom_to_top prev_right transRight prev_fix">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')"">
@@ -2263,7 +2463,7 @@ get_header(); ?>
                             </a>
                             <div class="horizontal_half left top hover-link">
                                 <div class="slide_sec left_to_right prev_fix transTop">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')"">
@@ -2342,7 +2542,7 @@ get_header(); ?>
                             </div>
                             <div class="horizontal_half right top hover-link">
                                 <div class="slide_sec right_to_left transTop prev_fix">
-                                    <img src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
+                                    <img class="down_arrow" src="<?php echo $imageUrl; ?>" alt="<?php the_title(); ?>">
                                     <!-- <div class="overlay_text">
                                         <a class="svg_outer" onclick="openPopup('<?php // echo esc_js(urldecode($permalink_url)); 
                                                                                     ?>')"">
@@ -2419,7 +2619,7 @@ get_header(); ?>
 <iframe id="popupFrame" src="" frameborder="0"></iframe>
 <!-- <button id="closeButton" onclick="closePopup()">✖</button> -->
 <button id="closeButton" onclick="closePopup()">
-    <a class="close-flip"></a>
+    <a class="close-flip down_arrow"></a>
 </button>
 
 <?php get_footer(); ?>

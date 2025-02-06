@@ -101,7 +101,7 @@
 	body.modalType .signleCloseBtn a span{
 		width: 40px;
 	}
-	.down_arrow,
+	.down_arrow, a.close-flip
 	.down_arrow svg{
 		width: 40px;
 		height: 40px;
@@ -469,7 +469,7 @@
 	    letter-spacing: 0px;
 	    font-size: 13px;
 	}
-	.down_arrow, .down_arrow img {
+	.down_arrow, a.close-flip .down_arrow img {
 	    width: 30px;
 	    height: 30px;
 	}
@@ -667,7 +667,7 @@
 	    letter-spacing: 0px;
 	    font-size: 13px;
 	}
-	.down_arrow, .down_arrow svg {
+	.down_arrow, a.close-flip .down_arrow svg {
 	    width: 30px;
 	    height: 30px;
 	}	

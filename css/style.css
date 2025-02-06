@@ -289,7 +289,7 @@ header {
     z-index: 99999;
 }
 nav {
-    padding: 70px 50px 4px 50px !important;
+    padding: 30px 50px 4px 50px !important;
 } 
 a.navbar-brand {
     display: inline-block;
@@ -2565,9 +2565,9 @@ rs-slide[data-key="rs-4"] rs-layer-wrap.rs-parallax-wrap+rs-layer-wrap.rs-parall
     border-radius: 50%;
 	z-index: 1;
     font-size: 1.2rem;
-    width: 40px;
-    height: 40px;
-    transform: rotate(45deg)
+        /* width: 40px;
+        height: 40px; */
+    /* transform: rotate(45deg) */
 }
 .flip-image a.close-flip:hover{
 	opacity: 1;

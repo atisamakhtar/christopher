@@ -2315,7 +2315,7 @@ get_header(); ?>
 
 <!-- modal view -->
 <iframe id="popupFrame" src="" frameborder="0"></iframe>
-<button id="closeButton" onclick="closePopup()">✖</button>
+<button id="closeButton" class="down_arrow" onclick="closePopup()">✖</button>
 
 <?php get_footer(); ?>
 
