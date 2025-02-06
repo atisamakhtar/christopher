@@ -161,11 +161,28 @@ get_header(); ?>
     }
 
     // Flip functionality for elements
+    // function setupFlipListeners() {
+    //     document.querySelectorAll('.arrow').forEach(arrow => {
+    //         // Flip to back
+    //         arrow.addEventListener('click', function() {
+    //             this.closest('.flip-image-wrapper').classList.add('flip-active');
+    //         });
+    //     });
+
+    //     document.querySelectorAll('.close-flip').forEach(closeButton => {
+    //         // Flip back to front
+    //         closeButton.addEventListener('click', function() {
+    //             this.closest('.flip-image-wrapper').classList.remove('flip-active');
+    //         });
+    //     });
+    // }
+
     function setupFlipListeners() {
-        document.querySelectorAll('.arrow').forEach(arrow => {
+        document.querySelectorAll('.arrow, .flip-image img').forEach(element => {
             // Flip to back
-            arrow.addEventListener('click', function() {
+            element.addEventListener('click', function() {
                 this.closest('.flip-image-wrapper').classList.add('flip-active');
+                console.log("flip clicked");
             });
         });
 

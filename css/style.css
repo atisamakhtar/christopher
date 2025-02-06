@@ -519,6 +519,11 @@ img {
 .horizontal_half.horizontal-full {
     width: 100%;
 }
+
+.horizontal_half div.bounce_effect_old {
+    padding: 0 40px !important;
+}
+
 .left {
     left: 0;
 }
@@ -2530,33 +2535,44 @@ rs-slide[data-key="rs-4"] rs-layer-wrap.rs-parallax-wrap+rs-layer-wrap.rs-parall
     display: inline-block;
 }
 
-.toHideSec > .slide_sec .flip-image a.close-flip {
+.flip-text-outer.center_txt , .back.light {
+    padding: 0 20px !important;
+}
+
+/* .toHideSec > .slide_sec .flip-image a.close-flip {
     position: absolute;
     right: 10px;
-    /* top: 80px !important;
-     */
+    top: 80px !important;
+    
      top: 47%;
-}
+
+} */
 
 .flip-image a.close-flip {
     position: absolute;
-    -webkit-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-            transform: rotate(45deg);
-    width: 30px;
-    height: 30px;
-    right: 20px;
-    /* top: 20px; */
-    top: 49%;
+    top: 50%;
+    right: 10px;
     opacity: 0.7;
+    
+    transform: translateY(-50%) rotate(45deg);
+    -webkit-transform: translateY(-50%) rotate(45deg);
+    -ms-transform: translateY(-50%) rotate(45deg);
+}
+
+.flip-image a.close-flip , #closeButton.show-close-button {
+
     border: 2px solid #fff;
     border-radius: 50%;
 	z-index: 1;
+    font-size: 1.2rem;
+    width: 40px;
+    height: 40px;
+    transform: rotate(45deg)
 }
 .flip-image a.close-flip:hover{
 	opacity: 1;
 }
-.flip-image a.close-flip:before {
+.flip-image a.close-flip:before , #closeButton.show-close-button:before {
     content: "";
     position: absolute;
     left: 50%;
@@ -2568,7 +2584,7 @@ rs-slide[data-key="rs-4"] rs-layer-wrap.rs-parallax-wrap+rs-layer-wrap.rs-parall
     width: 2px;
     transition: 0.3s ease-in-out;
 }
-.flip-image a.close-flip:hover:before{
+.flip-image a.close-flip:hover:before , #closeButton.show-close-button:hover:before{
     -webkit-animation: closeanimate 0.5s;
             animation: closeanimate 0.5s; 
     -webkit-animation-fill-mode: forwards; 
@@ -2585,7 +2601,7 @@ rs-slide[data-key="rs-4"] rs-layer-wrap.rs-parallax-wrap+rs-layer-wrap.rs-parall
   100% { height: 20px;}
 } 
 
-.flip-image a.close-flip:after {
+.flip-image a.close-flip:after , #closeButton.show-close-button:after {
     content: "";
     position: absolute;
     width: 20px;
@@ -2905,4 +2921,18 @@ div.up-down-buttons {
     align-self: center;
     margin: auto;
     float: right;    
+}
+
+/* home usecases mobile view */
+
+@media only screen and (max-width : 575px) {
+
+    #home_page .caseStudiesScreen .horizontal_half {
+        width: 100% !important;
+    }
+
+    #home_page .caseStudiesScreen .horizontal_half .slide_sec {
+        opacity: 0.9 !important;
+    }
+
 }

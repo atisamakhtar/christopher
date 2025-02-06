@@ -237,7 +237,8 @@ get_header(); ?>
                                         ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -307,7 +308,8 @@ get_header(); ?>
                                             ?>
 
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
 
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -395,7 +397,8 @@ get_header(); ?>
                                         ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -459,7 +462,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -518,7 +522,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -589,7 +594,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -653,7 +659,8 @@ get_header(); ?>
                                         ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -741,7 +748,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -822,7 +830,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -886,7 +895,8 @@ get_header(); ?>
                                         ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -956,7 +966,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1033,7 +1044,8 @@ get_header(); ?>
                                                 <!-- twelveth -->
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1101,7 +1113,8 @@ get_header(); ?>
                                 ?>
                                     <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                     <div class="image-container">
-                                        <div class="arrow">➔</div>
+                                        <!-- <div class="arrow">➔</div> -->
+                                        <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                     </div>
                                 <?php endif; ?>
                                 <a class="overlay_text" href="<?php the_field('section_14_url'); ?>">
@@ -1142,7 +1155,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1199,7 +1213,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1270,7 +1285,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1334,7 +1350,8 @@ get_header(); ?>
                                         ?>
                                             <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                             <div class="image-container">
-                                                <div class="arrow">➔</div>
+                                                <!-- <div class="arrow">➔</div> -->
+                                                <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                             </div>
                                         <?php endif; ?>
                                         <div class="overlay_text">
@@ -1404,7 +1421,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1469,7 +1487,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1526,7 +1545,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1597,7 +1617,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1674,7 +1695,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1733,7 +1755,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1790,7 +1813,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -1877,7 +1901,8 @@ get_header(); ?>
                                             ?>
                                                 <img src="<?php echo $full_image_url; ?>" alt="<?php echo $title; ?>">
                                                 <div class="image-container">
-                                                    <div class="arrow">➔</div>
+                                                    <!-- <div class="arrow">➔</div> -->
+                                                    <img style="width: 40px; height: 40px;" class="arrow" src="http://iq3-new.test/wp-content/themes/christopher/images/arrow-right-circleNEWNEW.svg" alt="right arrow">
                                                 </div>
                                             <?php endif; ?>
                                             <div class="overlay_text">
@@ -2392,7 +2417,10 @@ get_header(); ?>
 
 <!-- modal view -->
 <iframe id="popupFrame" src="" frameborder="0"></iframe>
-<button id="closeButton" onclick="closePopup()">✖</button>
+<!-- <button id="closeButton" onclick="closePopup()">✖</button> -->
+<button id="closeButton" onclick="closePopup()">
+    <a class="close-flip"></a>
+</button>
 
 <?php get_footer(); ?>
 
@@ -2512,7 +2540,7 @@ get_header(); ?>
 
     jQuery(document).ready(function($) {
         // Flip to back when arrow is clicked
-        $('.arrow').on('click', function() {
+        $('.arrow, .flip-image img').on('click', function() {
             $(this).closest('.flip-image-wrapper').addClass('flip-active');
         });
 
